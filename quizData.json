@@ -1,0 +1,52 @@
+{
+    "categories": ["General Knowledge", "Science", "History"],
+    "questions": {
+        "General Knowledge": [
+            "What is the capital of France?",
+            "Who is the author of Romeo and Juliet?",
+            "What is the capital of Israel?",
+            "What is 3-1?"
+        ],
+        "Science": [
+            "What is the chemical symbol for water?",
+            "Who developed the theory of relativity?",
+            "What is the sign for current in physics?",
+            "What is the sign for light velocity?"
+        ],
+        "History": [
+            "Who was the first President of the United States?",
+            "In which year did World War II end?",
+            "Who was the first prime minister of Israel?",
+            "Who was the worst dictator in history?"
+        ]
+    },
+    "answers": {
+        "What is the capital of France?": "Paris",
+        "Who is the author of Romeo and Juliet?": "William Shakespeare",
+        "What is the chemical symbol for water?": "H2O",
+        "Who developed the theory of relativity?": "Albert Einstein",
+        "Who was the first President of the United States?": "George Washington",
+        "In which year did World War II end?": "1945",
+        "What is the capital of Israel?":  "Jerusalem",
+        "What is 3-1?": "2",
+        "What is the sign for current in physics?":  "I",
+        "What is the sign for light velocity?": "c",
+        "Who was the first prime minister of Israel?":  "David Ben Guriun",
+        "Who was the worst dictator in history?": "Gal Green"
+
+    },
+    "options": {
+        "What is the capital of France?": ["Paris", "JJ", "KK", "LL"],
+        "Who is the author of Romeo and Juliet?": ["William Shakespeare", "SS", "DD", "jj"],
+        "What is the chemical symbol for water?": ["H2O", "h1", "o3", "co"],
+        "Who developed the theory of relativity?": ["Albert Einstein", "gal green", "bar", "eyal"],
+        "Who was the first President of the United States?": ["George Washington", "bibi", "donland", "aentrst"],
+        "In which year did World War II end?": ["1945", "123454", "345", "679", "1345"],
+        "What is the capital of Israel?":  ["Tel Aviv","Jerusalem", "Petech Tikva"],
+        "What is 3-1?": ["2","3","4"],
+        "What is the sign for current in physics?":  ["I","R","G","STST"],
+        "What is the sign for light velocity?": ["c","WHYE","AWTEQ","ARE"],
+        "Who was the first prime minister of Israel?":  ["David Ben Guriun", "Rabin", "BIBI", "GAL"],
+        "Who was the worst dictator in history?": ["Gal Green", "Hitler", "GFJDAGRAKEW","Stalin"]
+    }
+}
